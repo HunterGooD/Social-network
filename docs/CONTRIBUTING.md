@@ -9,7 +9,7 @@
 ## Отправка изменений
 
 - Сделайте форк репозитория
-    - [https://github.com/HunterGooD/Social-network/fork)](https://github.com/HunterGooD/Social-network/fork)
+    - [https://github.com/HunterGooD/Social-network/fork](https://github.com/HunterGooD/Social-network/fork)
 - Проверьте новую ветку и назовите ее в соответствии с тем, что вы собираетесь делать:
     - Пример:
         ```
