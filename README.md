@@ -29,7 +29,7 @@
 - [Использование](#usage)
 - [Использованные программы](#built_using)
 - [TODO](docs/TODO.md)
-- [Участие](docs/CONTRIBUTING.md)
+- [Принять участие](docs/CONTRIBUTING.md)
 - [Авторы](#authors)
 - [Благодарности](#acknowledgement)
 
